@@ -60,7 +60,7 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 
 
 <p align="center">
-    <img src= "Imagenes\imagen1.JPG"height=300 >
+    <img src= "Imagenes\imagen1.JPG" height=300 >
 </p>
 
 <hr>
@@ -69,7 +69,7 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 
 
 <p align="center">
-    <img src= "Imagenes\imagen2.jpg"height=300 >
+    <img src= "Imagenes\imagen2.JPG" height=300 >
 </p>
 
 <hr>
@@ -80,7 +80,7 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 <p style="text-align: justify;">En cuanto a los "Cruces", los incidentes que involucran cruces destacan con un significativo número de víctimas, alcanzando la cifra de 540, en comparación con los casos sin cruces que registran 177 víctimas. Este contraste subraya la urgencia de implementar medidas específicas destinadas a reducir los riesgos asociados a los cruces y, por ende, a minimizar el impacto en términos de víctimas. Estos hallazgos proporcionan una base sólida para la formulación de políticas y acciones focalizadas en áreas específicas que presentan mayores desafíos en términos de seguridad vial.
 
 <p align="center">
-    <img src= "Imagenes\imagen3.jpg"height=300 >
+    <img src= "Imagenes\imagen3.JPG" height=300 >
 </p>
 
 <hr>
@@ -100,7 +100,7 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
 
 <p align="center">
-    <img src= "Imagenes\imagen4.jpg"height=300 >
+    <img src= "Imagenes\imagen4.JPG" height=300 >
 </p>
 
 <hr>
@@ -113,7 +113,7 @@ Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis mese
 Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
 <p align="center">
-    <img src= "Imagenes\imagen5.jpg"height=300 >
+    <img src= "Imagenes\imagen5.JPG" height=300 >
 </p>
 
 <hr>
@@ -125,7 +125,7 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 Reducir en un 5% la cantidad de accidentes mortales ocurridos en las avenidas en el último año, en CABA, respecto al año anterior.
 
 <p align="center">
-    <img src= "Imagenes\imagen6.jpg"height=300 >
+    <img src= "Imagenes\imagen6.JPG" height=300 >
 </p>
 
 <hr>
@@ -147,7 +147,7 @@ Reducir en un 5% la cantidad de accidentes mortales ocurridos en las avenidas en
 
 
 <p align="center">
-    <img src= "Imagenes\imagen7.jpg"height=300 >
+    <img src= "Imagenes\imagen7..JPG" height=300 >
 </p>
 
 <hr>
