@@ -17,14 +17,14 @@
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#DATOS">DATOS</a></li>
     <li><a href="#TAREAS DESARROLLADAS">TAREAS DESARROLLADAS</a></li>
-    <li><a href="##ETL ">ETL</a></li>
-    <li><a href="##EDA">EDA</a></li>
-    <li><a href="#INDICADOR CLAVE DE RENDIMIENTO KPI ">INDICADOR CLAVE DE RENDIMIENTO KPI</a></li>
-    <li><a href="##PRIMER KPI ">PRIMER KPI</a></li>
-    <li><a href="##SEGUNDO KPI ">SEGUNDO KPI</a></li>
-    <li><a href="##TERCER KPI ">TERCER KPI</a></li>
-    <li><a href="##DASHBOARD ">DASHBOARD</a></li>
-    <li><a href="#TECNOLOGIAS USADAS">TECNOLOGIAS</a></li>
+    <li><a href="## ETL ">ETL</a></li>
+    <li><a href="## EDA">EDA</a></li>
+    <li><a href="#  Indicador Clave de Rendimiento  - KPI ">INDICADOR CLAVE DE RENDIMIENTO KPI</a></li>
+    <li><a href="# Primer KPI:">PRIMER KPI</a></li>
+    <li><a href="##Segundo KPI ">SEGUNDO KPI</a></li>
+    <li><a href="## Tercer KPI">TERCER KPI</a></li>
+    <li><a href="# Dashboard ">DASHBOARD</a></li>
+    <li><a href="# Conjunto de Tecnologías">TECNOLOGIAS</a></li>
     <li><a href="#CONCLUSIONES">CONCLUSIONES</a></li>
     
     
