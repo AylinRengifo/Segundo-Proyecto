@@ -149,6 +149,8 @@ Reducir en un 5% la cantidad de accidentes mortales ocurridos en las avenidas en
 <p align="center">
     <img src= "Imagenes\imagen7.JPG" height=300 >
 </p>
+
+
 <hr>
 <hr></p></p> </p> 
 
