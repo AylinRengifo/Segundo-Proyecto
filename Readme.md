@@ -84,9 +84,8 @@
 
 A traves de este analisis se pudieron identificar las victimas por año donde se evidencia que a lo largo de cada año, los hombres representan consistentemente un mayor número de víctimas en comparación con las mujeres. Además, se observa una disminución significativa en el número de víctimas tanto en hombres como en mujeres en 2019. Esta disminución podría estar relacionada con la pandemia por COVID, ya que coincide temporalmente con esas fechas. Por otro lado, se destaca un aumento en el número de víctimas femeninas entre 2016 y 2018. Estos patrones proporcionan insights valiosos sobre las variaciones en la incidencia de accidentes a lo largo del tiempo y sugieren posibles influencias externas, como eventos pandémicos.
 
-
 <p align="center">
-    <img src= "Imagenes\imagen1.JPG" height=300 >
+    <img src= "Imagenes\imagen1.jpg"height=300 >
 </p>
 
 
