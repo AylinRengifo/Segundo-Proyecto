@@ -60,15 +60,19 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 
 
 <p align="center">
-    <img src= "Imagenes\imagen1.jpg" height=400>
+    <img src= "Imagenes\imagen1.jpg"height=300 >
 </p>
+
+<hr>
 
 <p style="text-align: justify;"> Es destacable subrayar que, al analizar los datos, se observó que las motocicletas emergen como el tipo de vehículo con la mayor proporción de accidentes, siendo especialmente significativa la predominancia de hombres entre los involucrados en este tipo de incidentes. Esta tendencia sugiere una mayor exposición de los hombres a los riesgos asociados con el uso de motocicletas en comparación con otros grupos demográficos. Asimismo, resulta notable que los peatones constituyen el grupo con la mayor cantidad de víctimas fatales en accidentes, destacando una proporción significativa de hombres en esta categoría, aunque la diferencia en comparación con otros géneros no es tan marcada. Este hallazgo invita a una reflexión sobre los posibles factores que contribuyen a la vulnerabilidad de los peatones, especialmente de aquellos de género masculino, y sugiere la necesidad de medidas específicas para mejorar la seguridad vial de este grupo.
 
 
- <p align="center">
-    <img src= "Imagenes\imagen2.jpg" height=500>
+<p align="center">
+    <img src= "Imagenes\imagen2.jpg"height=300 >
 </p>
+
+<hr>
 
 
 <p style="text-align: justify;">El minucioso análisis de los datos resalta que las "Avenidas" sobresalen con un total de 442 víctimas, liderando la estadística, seguidas por las "Calles" con 138 incidentes. Estos resultados evidencian una correlación directa entre el tipo de vía y la seguridad vial, planteando la importancia de considerar este factor al diseñar estrategias de prevención y control de accidentes.
@@ -76,8 +80,10 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 <p style="text-align: justify;">En cuanto a los "Cruces", los incidentes que involucran cruces destacan con un significativo número de víctimas, alcanzando la cifra de 540, en comparación con los casos sin cruces que registran 177 víctimas. Este contraste subraya la urgencia de implementar medidas específicas destinadas a reducir los riesgos asociados a los cruces y, por ende, a minimizar el impacto en términos de víctimas. Estos hallazgos proporcionan una base sólida para la formulación de políticas y acciones focalizadas en áreas específicas que presentan mayores desafíos en términos de seguridad vial.
 
 <p align="center">
-    <img src= "Imagenes\imagen3.jpg" height=400>
+    <img src= "Imagenes\imagen3.jpg"height=300 >
 </p>
+
+<hr>
 
 <p style="text-align: justify;"> Este exhaustivo análisis proporcionó una visión completa, finalizando con la evaluación comparativa de varios indicadores clave de rendimiento (KPIs). Los descubrimientos obtenidos tienen la intención de servir como orientación para la formulación de estrategias y políticas futuras en materia de seguridad vial en la Ciudad de Buenos Aires. Estos valiosos insights ofrecen una base sólida para la toma de decisiones informadas, permitiendo el diseño de enfoques más efectivos y específicos que aborden de manera precisa los desafíos identificados en el análisis.
 
@@ -94,8 +100,10 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior
 
 <p align="center">
-    <img src= "Imagenes\imagen4.jpg" height=300>
+    <img src= "Imagenes\imagen4.jpg"height=300 >
 </p>
+
+<hr>
 
 <p style="text-align: justify;">  A lo largo de los años, se han observado fluctuaciones en la tasa de homicidios en siniestros viales, destacando disminuciones en ciertos periodos. En el año 2017 y 2018, tanto en el primer como en el segundo semestre, se experimentaron reducciones, aunque ninguna alcanzó el objetivo del KPI de reducir la tasa en un 10%. En contraste, el año 2019 destacó por presentar disminuciones significativas de más del 20% en ambos periodos, superando ampliamente el objetivo establecido. El primer semestre de 2020 cumplió con el KPI, pero el segundo semestre presenció un aumento del 80.65%, incumpliendo el objetivo. En el año 2021, mientras el primer semestre mostró una reducción del 3.23%, el segundo semestre logró una disminución del 23.64%, cumpliendo finalmente con el KPI. En resumen, aunque algunos periodos exhibieron mejoras en la seguridad vial, solo en los años 2019 y 2021 se lograron reducciones consistentes de más del 10%, cumpliendo así con el objetivo establecido por el KPI.
 
@@ -105,9 +113,10 @@ Reducir 10% la tasa de homicidios en siniestros viales de los últimos seis mese
 Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
 <p align="center">
-    <img src= "Imagenes\imagen5.jpg" height=300>
-    
+    <img src= "Imagenes\imagen5.jpg"height=300 >
 </p>
+
+<hr>
 
 <p style="text-align: justify;">  En el análisis, en 2016 y 2017, la evolución porcentual superó el objetivo del 7%, logrando un cumplimiento positivo del KPI. En 2018 y 2019, las reducciones fueron del 1.61% y 18.03%, mostrando resultados mixtos. En 2020, hubo una drástica disminución del 40.00%, cumpliendo con el KPI. Sin embargo, en 2021, se evidenció una evolución negativa del -53.33%, indicando un incumplimiento del KPI debido a un aumento significativo en accidentes mortales. Analizar las tendencias a lo largo de los años es esencial para comprender las variaciones en la evolución porcentual. La excepcional reducción en 2020 podría estar relacionada con la pandemia de COVID-19 y las restricciones, llevando a una disminución general en la movilidad. El aumento abrupto en 2021 subraya la importancia de monitorear continuamente las condiciones del tráfico y ajustar estrategias de seguridad vial según sea necesario. En resumen, aunque se logró una significativa reducción en 2020, la evolución negativa en 2021 destaca la necesidad de un enfoque proactivo en las medidas de seguridad vial ante los desafíos cambiantes en la movilidad.
 
@@ -116,8 +125,10 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 Reducir en un 5% la cantidad de accidentes mortales ocurridos en las avenidas en el último año, en CABA, respecto al año anterior.
 
 <p align="center">
-    <img src= "Imagenes\imagen6.jpg" height=300>  
+    <img src= "Imagenes\imagen6.jpg"height=300 >
 </p>
+
+<hr>
 
 <p style="text-align: justify;">  Los resultados indican que en 2016 y 2017 no hubo cambios significativos en la cantidad de víctimas en las avenidas. En 2018, se logró una reducción del -8.60%, superando la meta del KPI. Sin embargo, en 2019 se observó un aumento del 34.65%, incumpliendo la meta establecida. En 2020, se alcanzó una disminución del 15.15%, cumpliendo con la meta del KPI. En 2021, se registró una reducción del -8.93%, nuevamente superando la meta del KPI. En resumen, aunque se lograron reducciones significativas en 2020 y 2021, es esencial analizar las razones detrás del aumento en 2019 para ajustar estrategias y mantener mejoras continuas en la seguridad vial en las avenidas de CABA.
 
@@ -136,9 +147,10 @@ Reducir en un 5% la cantidad de accidentes mortales ocurridos en las avenidas en
 
 
 <p align="center">
-    <img src= "Imagenes\imagen7.jpg" height=600>  
+    <img src= "Imagenes\imagen7.jpg"height=300 >
 </p>
 
+<hr>
 <hr></p></p> </p> 
 
 # Conjunto de Tecnologías
