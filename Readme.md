@@ -86,8 +86,9 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 
 
 <p align="center">
-    <img src= "Imagenes\imagen1.jpg" height=400>
+    <img src= "Imagenes\imagen1.JPG" height=300 >
 </p>
+
 
 <p style="text-align: justify;"> Es destacable subrayar que, al analizar los datos, se observó que las motocicletas emergen como el tipo de vehículo con la mayor proporción de accidentes, siendo especialmente significativa la predominancia de hombres entre los involucrados en este tipo de incidentes. Esta tendencia sugiere una mayor exposición de los hombres a los riesgos asociados con el uso de motocicletas en comparación con otros grupos demográficos. Asimismo, resulta notable que los peatones constituyen el grupo con la mayor cantidad de víctimas fatales en accidentes, destacando una proporción significativa de hombres en esta categoría, aunque la diferencia en comparación con otros géneros no es tan marcada. Este hallazgo invita a una reflexión sobre los posibles factores que contribuyen a la vulnerabilidad de los peatones, especialmente de aquellos de género masculino, y sugiere la necesidad de medidas específicas para mejorar la seguridad vial de este grupo.
 
