@@ -60,7 +60,7 @@ A traves de este analisis se pudieron identificar las victimas por año donde se
 
 
 <p align="center">
-    <img src= "Imagenes\accidente.jpg"height=300 >
+    <img src= "Imagenes\imagen1.JPG"height=300 >
 </p>
 
 <hr>
