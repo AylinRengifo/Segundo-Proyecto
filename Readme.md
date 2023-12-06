@@ -18,11 +18,11 @@
   <ol>  
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#DATOS">DATOS</a></li>
-    <li><a href="#TAREAS-DESARROLLADAS">TAREAS DESARROLLADAS</a></li>
+    <li><a href="#TAREAS DESARROLLADAS">TAREAS DESARROLLADAS</a></li>
     <li><a href="#ETL">ETL</a></li>
     <li><a href="#EDA">EDA</a></li>
-    <li><a href="#  Indicador Clave de Rendimiento  - KPI ">INDICADOR CLAVE DE RENDIMIENTO KPI</a></li>
-    <li><a href="#Primer KPI">PRIMER KPI</a></li>
+    <li><a href="# Indicador Clave de Rendimiento  - KPI ">INDICADOR CLAVE DE RENDIMIENTO KPI</a></li>
+      <li><a href="#Primer KPI">PRIMER KPI</a></li>
     <li><a href="#Segundo KPI">SEGUNDO KPI</a></li>
     <li><a href="#Tercer KPI">TERCER KPI</a></li>
     <li><a href="#DASHBOARD">DASHBOARD</a></li>
